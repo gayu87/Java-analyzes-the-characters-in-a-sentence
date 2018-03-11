@@ -9,3 +9,5 @@ Continue to prompt the user for sentences until they enter “x”.  Use these s
 	3.141592653 is #PI# to the first 9 decimal places.
 	South Dakota, the 40th state, is home to Mount Rushmore!
 	Numeric operators include: ! * / + - ^ and =.
+
+  
